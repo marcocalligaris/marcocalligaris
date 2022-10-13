@@ -4,8 +4,8 @@
 <hr>
 
 ### *Connect with me:*
-<a href="https://www.linkedin.com/in/gianluca-mura/" target="_blank">
-<img src="https://camo.githubusercontent.com/4f471af213f232c6d37258f029cca377b845874d95b2e177e23b61ecc998e7d1/68747470733a2f2f7374617469632e6c6963646e2e636f6d2f73632f682f616c326f397a727672753761716a3865317832727a73726361" alt="Linkedin | Gianluca Mura" height="50">
+<a href="https://www.linkedin.com/in/marcocalligaris/" target="_blank">
+<img src="https://camo.githubusercontent.com/4f471af213f232c6d37258f029cca377b845874d95b2e177e23b61ecc998e7d1/68747470733a2f2f7374617469632e6c6963646e2e636f6d2f73632f682f616c326f397a727672753761716a3865317832727a73726361" alt="Linkedin | Marco Calligaris" height="50">
 </a>
 <hr>
 
